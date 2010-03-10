@@ -1,0 +1,267 @@
+body {
+  /* Pure evil:   width: 800px; */
+  width: 80%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif; 
+  color: #222; 
+  font-size: 0.8em; 
+  line-height: 1.2em; 
+  text-align: justify; 
+  text-decoration: none; 
+}
+
+a:link, a:hover, a:active, a:visited {
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* keynote 'box' on main page */
+div#keynote { 
+   border: solid 1px #444; 
+   background-color: #eee; 
+   padding: 4px; 
+}
+
+/* keynote 'box' bullet list on main page */
+div#keynotelist { 
+   margin-right: 2em; 
+}
+
+/* centering -- use for images */
+div#center { 
+  text-align: center; 
+}
+
+/* this is '> foo()' prompt mimicking R */
+div#page_title { 
+  color: #039; 
+  font-size: 1.3em; 
+  font-family: Geneva, Helvetica, sans-serif; 
+  padding: 4px; 
+} 
+
+/* big header */
+div#RFinance_flag { 
+   font-family: Arial, Helvitica, Sans-serif; 
+   height: 30px; 
+   color: #039; 
+   top: 1em; 
+   font-size: 22pt; 
+   /* width: 80%; */
+   font-weight: bold; 
+   padding: 2px; 
+   padding-top: 20px; 
+} 
+
+/* Date in title */
+div#Date { 
+  font-size: 18px; 
+  color: #555; 
+  padding: 2px; 
+}
+
+/* navigation banner on top */
+div#navigation {
+  text-align: center;
+  /* width: 800px; */
+  border: solid 1px #666;
+  /* background-color: #039; */
+  background-color: #BBB; 
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-size: 11pt; 
+  text-decoration: bold; 
+}
+
+/* navigation on bottom */
+div#footer {  
+  /* position: absolute; */
+  text-align: center;
+  /* top: 37em; */
+  /* width: 800px; */
+  color: #555; 
+  font-size: 11pt; 
+}
+
+div#travel {  
+  padding-left: 20px;
+}
+
+#travel td, #register td {
+  padding-left: 20px;
+}
+
+div#pricing_header {
+  color: #039;
+  /* font-size: 1.6em; */
+  font-size: 1.2em; 
+}
+
+#lr_link { 
+  font-size: 1.3em; 
+}
+#lr_link a { 
+  border: solid 1px; background-color: green; color: #fff; padding: .25em; 
+} 
+
+#tutorial_box {
+  text-align: left;
+  font-size: 95%;
+  /* position: absolute; */
+  /* left: 480px; */
+  /* width: 250px; */
+  /* height: 35em;*/
+  padding: 10px;
+  background-color: #F5F5F5;
+  border: solid 1px #AAA;
+}
+.tutorial_desc {
+  font-size: 95%;
+  color: #039;
+}
+
+/* div#main */
+/* { */
+/*   position: absolute; */
+/*   font-family: Arial, Helvetica, sans-serif; */
+/*   color: #222; */
+/*   font-size: 0.8em; */
+/*   line-height: 1.2em; */
+/*   text-align: justify; */
+/*   width: 800px; */
+/* } */
+/* .page_title */
+/* { */
+/*   color: #039; */
+/*   font-size: 1.3em; */
+/*   font-family: Geneva, Helvetica, sans-serif; */
+/* } */
+/* div#descr, div#keynote, div#spon752sors, */
+/* #agenda, .type1, .full_screen, #register, #travel */
+/*  { */
+/*   position: absolute; */
+/*   top: 1em; */
+/*   left: 0px; */
+/*   width: 360px; */
+/*   padding: 9px; */
+/* } */
+/* div#agenda, div.full_screen */
+/* { */
+/*   left: 370px; */
+/* } */
+/* #register, #travel */
+/* { */
+/*   left: 40px; */
+/*   width: 350px; */
+/* } */
+/* #tutorial_box */
+/* { */
+/*   text-align: left; */
+/*   font-size: 90%; */
+/*   position: absolute; */
+/*   left: 480px; */
+/*   width: 250px; */
+/*   /\*height: 35em;*\/ */
+/*   padding: 10px; */
+/*   background-color: #F5F5F5; */
+/*   border: solid 1px #AAA; */
+/* } */
+/* .tutorial_desc */
+/* { */
+/*   font-size: 95%; */
+/*   color: #039; */
+/* } */
+
+/* div#keynote */
+/* { */
+/*   top: 140px; */
+/*   left: 395px; */
+/*   width: 390px; */
+/*   border: solid 1px #444; */
+/*   background-color: #eee; */
+/* } */
+/* #keynote li { color: blue; margin-left: .2em; text-align: left; } */
+/* #keynote em { color: #444; } */
+/* div#sponsors, div#spon752sors */
+/* { */
+/*   background: url("spon752sors.png") top left no-repeat; */
+/*   top: 19em; */
+/*   left: 395px; */
+/*   width: 390px; */
+/*   height: 14em; */
+/*   border-style: none; */
+/* } */
+/* div#footer */
+/* { */
+/*   position: absolute; */
+/*   text-align: center; */
+/*   top: 37em; */
+/*   width: 800px; */
+/* } */
+/* #navigation */
+/* { */
+/*   text-align: center; */
+/*   width: 800px; */
+/*   border: solid 1px #666; */
+/*   background-color: #039; */
+/*   margin-bottom: 6px; */
+/* } */
+/* #lr_link a, #footer a, #navigation a */
+/* {  */
+/*   padding-left: 2em; */
+/*   padding-right: 2em; */
+/*   font-family: Arial, Helvitica, Sans-serif; */
+/*   color: #555; */
+/*   text-decoration: bold; */
+/*   font-size: .8em; */
+/* } */
+/* #navigation a { color: #EEE; } */
+/* a:link, a:hover, */
+/* a:active, a:visited */
+/* { */
+/*   text-decoration: none; */
+/*   font-weight: bold; */
+/*   color: blue; */
+/* } */
+/* #footer a:hover, #navigation a:hover { text-decoration: underline; } */
+/* #agenda_link { text-align: right; padding-right: 30px; } */
+/* #lr_link { font-size: 1.3em; position: absolute; bottom: -1em; right: .5em; } */
+/* #lr_link a { border: solid 1px; background-color: green; color: #fff; padding: .5em; } */
+/* #agenda_link a { color: red; } */
+
+/* .ICFD */
+/* { */
+/*   color: red; */
+/*   font-weight: bold; */
+/* } */
+/* .R */
+/* { */
+/*   color: black; */
+/*   font-weight: bold; */
+/* } */
+/* .pricing_header */
+/* { */
+/*   color: #039; */
+/*   font-size: 1.6em; */
+/* } */
+/* #travel td, #register td */
+/* { */
+/*   padding-left: 20px; */
+/* } */
+/* #chicago_pics */
+/* { */
+/*   position: absolute; */
+/*   left: 450px; */
+/* } */
+/* #sponsor2010 */
+/* { */
+/*   position: absolute; */
+/*   left: 490px; */
+/*   top: 110px; */
+/*   width: 100px; */
+/* } */

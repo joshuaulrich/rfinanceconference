@@ -1,0 +1,130 @@
+#speakers_keynotes, #speakers_contributed, #speakers_tutorials
+{
+  font-style: normal;
+  position: absolute;
+  width: 360px;
+  height: 225px;
+  border: solid 1px #CCC;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1.1em;
+  padding-right: 20px;
+  background-color: #D6EBFC;
+  line-height: 1em;
+  color: #039;
+}
+#speakers_contributed
+{
+  left: 400px;
+  height: 400px;
+}
+#speakers_tutorials
+{
+  top: 277px;
+  height: 140px;
+}
+#speakers_keynotes span, #speakers_contributed span,
+#speakers_tutorials span
+{
+  color: #000;
+}
+#speakers_tutorials em, #speakers_keynotes em, #speakers_contributed em
+{
+  font-size: 90%;
+  color: #444;
+  text-decoration: none;
+}
+#speakers_tutorials a, #speakers_keynotes a, #speakers_contributed a
+{
+  color: black;
+  text-decoration: underline;
+  font-weight: normal;
+}
+#revo_workshop
+{
+  position: float;
+  width: 380px;
+  height: 2em;
+  color: #CCC;
+  background-color: #06C;
+  border: solid 1px #CCC;
+  margin: 1px;
+  padding: 8px;
+}
+#revo_workshop a { color: white; }
+
+#tutorials
+{
+  position: float;
+  width: 380px;
+  height: 6.5em;
+  background-color: #F5F5F5;
+  border: solid 1px #CCC;
+  margin: 1px;
+  padding: 8px;
+}
+#tutorials li
+{
+  font-size: 85%;
+}
+
+#friday
+{
+  position: float;
+  width: 380px;
+  height: 7.5em;
+  background-color: #D6EBFC;
+  border: solid 1px #CCC;
+  margin: 1px;
+  padding: 8px;
+}
+
+#saturday
+{
+  position: float;
+  width: 380px;
+  height: 12em;
+  background-color: #D6EBFC;
+  border: solid 1px #CCC;
+  margin: 1px;
+  padding: 8px;
+}
+
+#agenda em { color: #00C; }
+#revo_workshop em { color: white; }
+
+#UIC_ICFD
+{
+  padding-left: 410px;
+  background: url("uic-icfd-logo-small.png") top left no-repeat;
+  height: 100px;
+}
+
+#REVO
+{
+  padding-left: 280px;
+  background: url("revolution-logo-math.jpg") top left no-repeat;
+  height: 90px;
+}
+#MICROSOFT
+{
+  padding-left: 410px;
+  background: url("HPC.png") top left no-repeat;
+  height: 50px;
+}
+#INSIGHT_ALGORITHMICS
+{
+  padding: 10px;
+  padding-left: 220px;
+  background: url("ia_logo.png") top left no-repeat;
+  height: 160px;
+}
+#RevoTraining
+{
+  position: absolute;
+  top: 390px; 
+  width: 450px;
+  height: 65px;
+  border: solid 3px #4B4BC4;
+  background: url("REVOTraining.png") top left no-repeat;
+}
