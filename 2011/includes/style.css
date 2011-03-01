@@ -1,0 +1,159 @@
+body
+{
+  width: 800px;
+  margin: 0 auto;
+}
+div#RFinance_flag
+{
+  font-family: Arial, Helvetica, Sans-serif;
+  height: 70px;
+  color: #039;
+  top: 1em;
+  font-size: 14pt;
+  width: 800px;
+  font-weight: bold;
+  padding: 4px;
+  padding-top: 10px;
+}
+span#RFinance2009
+{
+  font-size: 35px;
+}
+span#Date
+{
+  font-size: 16px;
+  color: #555;
+}
+div#main
+{
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+  font-size: 0.8em;
+  line-height: 1.2em;
+  text-align: justify;
+  width: 800px;
+}
+.page_title
+{
+  color: #039;
+  font-size: 1.3em;
+  font-family: Geneva, Helvetica, sans-serif;
+}
+div#descr, div#keynote, div#spon752sors,
+#agenda, .type1, .full_screen, #register, #travel
+ {
+  position: absolute;
+  top: 1em;
+  left: 0px;
+  width: 360px;
+  padding: 9px;
+}
+div#agenda, div.full_screen
+{
+  left: 370px;
+}
+#register, #travel
+{
+  left: 40px;
+  width: 350px;
+}
+#tutorial_box
+{
+  text-align: left;
+  font-size: 90%;
+  position: absolute;
+  left: 480px;
+  width: 250px;
+  /*height: 35em;*/
+  padding: 10px;
+  background-color: #F5F5F5;
+  border: solid 1px #AAA;
+}
+.tutorial_desc
+{
+  font-size: 95%;
+  color: #039;
+}
+
+div#keynote
+{
+  top: 10px;
+  left: 395px;
+  width: 390px;
+  border: solid 1px #444;
+  background-color: #eee;
+}
+#keynote li { color: blue; margin-left: .2em; text-align: left; }
+#keynote em { color: #444; }
+div#sponsors, div#spon752sors
+{
+  background: url("spon752sors.png") top left no-repeat;
+  top: 19em;
+  left: 395px;
+  width: 390px;
+  height: 14em;
+  border-style: none;
+}
+div#footer
+{
+  position: absolute;
+  text-align: center;
+  top: 37em;
+  width: 800px;
+}
+#navigation
+{
+  text-align: center;
+  width: 800px;
+  border: solid 1px #666;
+  background-color: #039;
+  margin-bottom: 6px;
+}
+#lr_link a, #footer a, #navigation a
+{ 
+  padding-left: 2em;
+  padding-right: 2em;
+  font-family: Arial, Helvitica, Sans-serif;
+  color: #555;
+  text-decoration: bold;
+  font-size: .8em;
+}
+#navigation a { color: #EEE; }
+a:link, a:hover,
+a:active, a:visited
+{
+  text-decoration: none;
+  font-weight: bold;
+  color: blue;
+}
+#footer a:hover, #navigation a:hover { text-decoration: underline; }
+#agenda_link { text-align: right; padding-right: 30px; }
+#lr_link { font-size: 1.3em; position: absolute; bottom: -1em; right: .5em; }
+#lr_link a { border: solid 1px; background-color: green; color: #fff; padding: .5em; }
+#agenda_link a { color: red; }
+
+.ICFD
+{
+  color: red;
+  font-weight: bold;
+}
+.R
+{
+  color: black;
+  font-weight: bold;
+}
+.pricing_header
+{
+  color: #039;
+  font-size: 1.6em;
+}
+#travel td, #register td
+{
+  padding-left: 20px;
+}
+#chicago_pics
+{
+  position: absolute;
+  left: 450px;
+}
