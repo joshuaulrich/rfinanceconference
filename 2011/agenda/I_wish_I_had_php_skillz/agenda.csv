@@ -1,6 +1,6 @@
 start,end,type,author,title
  9:00,11:00,smallbreak,,Optional Pre-Conference Workshops
-12:15,12:30,break,,Welcome and opening remarks
+12:15,12:30,normalbreak,,Welcome and opening remarks
 12:30,13:20,keynote,Faber,TBA
 13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps
 13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes ...
@@ -14,4 +14,4 @@ start,end,type,author,title
 17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More
      ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events
      ,     ,lightning,Long,The Segue Package for R
-17:30,22:00,breaks,,Conference Reception and Dinner (East Terrace and Rivers Restaurant)
+17:30,22:00,normalbreak,,Conference Reception and Dinner (East Terrace and Rivers Restaurant)
