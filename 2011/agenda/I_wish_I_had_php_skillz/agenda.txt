@@ -1,0 +1,16 @@
+ 9:00 & -- & 11:00 &   & \small{\mylinecolor{Breaks} Optional Pre-Conference Workshops} \\[5pt]
+12:15 & -- & 12:30 &   & \textbf{\color{Breaks} Welcome and opening remarks} \\
+12:30 & -- & 13:20 &   & \textbf{\color{KeynoteTalk} Faber}: \small{TBA} \\
+13:20 & -- & 13:40 &   & \textbf{\color{Talk} Boudt}: \small{Intraday Liquidity Dynamics Of The DJIA Around Price Jumps} \\
+13:40 & -- & 14:00 &   & \textbf{\color{Talk} Dunand-Ch\^{a}tellet}: \small{Mutually Exciting Hawkes Processes $\ldots$} \\
+14:00 & -- & 14:20 &   & \textbf{\color{Talk} Kane}: \small{Evaluating the Effect of FINRA's New Circuit Breaker Regulation} \\
+14:20 & -- & 14:50 &   & \small{\mylinecolor{Breaks} Break} \\
+14:50 & -- & 15:40 &   & \textbf{\color{KeynoteTalk} Iacus}: \small{TBA} \\
+15:40 & -- & 16:00 &   & \textbf{\color{Talk} Switanek}: \small{The Impact of News Readability on Market Response Times} \\
+16:00 & -- & 16:20 &   & \small{\mylinecolor{Breaks} Break} \\
+16:20 & -- & 16:40 &   & \textbf{\color{Talk} Lewis}: \small{The \emph{betfair} Package} \\
+16:40 & -- & 17:00 &   & \textbf{\color{Talk} Kumar}: \small{Carry Trades - Don't Get Carried Away} \\
+17:00 & -- & 17:30 &   & \textbf{\color{LightningTalk} Nelson}: \small{Beyond Vignettes: Dexy for Documenting R and More} \\
+      &    &       &   & \textbf{\color{LightningTalk}  Rothermich}: \small{Alt.~Data Sources for Measuring Market Sentiment and Events} \\
+      &    &       &   & \textbf{\color{LightningTalk} Long}: \small{The \emph{Segue} Package for R} \\
+17:30 & -- & 22:00 &   & \small{\mylinecolor{Breaks} Conference Reception and Dinner (East Terrace and Rivers Restaurant)}  \\[18pt]
