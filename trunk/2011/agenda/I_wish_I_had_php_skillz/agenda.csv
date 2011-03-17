@@ -4,9 +4,9 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
      ,     ,tutorial,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,,VERTSPACE
      ,     ,HEADER,,,,"Friday, April 29th, 2010",,
  9:00,11:00,smallbreak,,Optional Pre-Conference Tutorials,,Optional Pre-Conference Tutorials,,
-     ,     ,tutorial,Ryan,Automated Trading with R and IBroker,Ryan,Automated Trading with R and IBroker,,
-     ,     ,tutorial,Yollin,Hands-on Introduction to R in Finance,Yollin,Hands-on Introduction to R in Finance,,
-     ,     ,tutorial,Zivot,Multifactor Modeling for Finance in R,Zivot,Multifactor Modeling for Finance in R,,
+     ,     ,tutorial,Ryan,Automated Trading with R,Ryan,Automated Trading with R,,
+     ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,
+     ,     ,tutorial,Zivot,Financial Risk Models with R,Zivot,Financial Risk Models with R,,
 12:15,12:30,normalbreak,,Welcome and opening remarks,,Welcome and opening remarks,,
 12:30,13:20,keynote,Faber,TBA,Faber,TBA,,
 13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,,
