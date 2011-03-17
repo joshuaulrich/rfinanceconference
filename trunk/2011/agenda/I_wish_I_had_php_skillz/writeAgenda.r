@@ -32,6 +32,7 @@ for (i in 1:NROW(data)) {
                talk       =paste('<font color="#894411"><b>', row$authorH,'</b></font>: ', row$titleH, '</font>', sep=""),
                lightning  =paste('<font color="#CC7200"><b>', row$authorH,'</b></font>: ', row$titleH, '</font>', sep="")),
         '</td></tr>',
+        ifelse (row$eolH=="VERTSPACE", '\n<tr><td colspan="5"></td></tr>', ''),
         "\n", sep="", file=html)
 }
 close(html)
