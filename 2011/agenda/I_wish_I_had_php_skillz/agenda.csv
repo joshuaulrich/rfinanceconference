@@ -44,6 +44,6 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 15:50,16:10,talk,Vermes,Stochastic Volatility Models Massively Parallel in R,Vermes,Stochastic Volatility Models Massively Parallel in R,,
 16:10,16:30,talk,Pfaff,Interfacing NEOS from R: The \emph{rneos} Package,Pfaff,Interfacing NEOS from R: The <em>rneos</em> Package,,
 16:30,17:00,lightning,Horner,\emph{Rack}: A Web Server Interface for R,Horner,<em>Rack</em>: A Web Server Interface for R,,
-     ,     ,lightning,Haynold:,\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET,Haynold:,<em>RserveCLI</em>: An Rserve Client Implementation for CLI/.NET,,
+     ,     ,lightning,Haynold,\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET,Haynold:,<em>RserveCLI</em>: An Rserve Client Implementation for CLI/.NET,,
      ,     ,lightning,North,Repast Simphony,North,Repast Simphony,,
      ,     ,break,,Closing remarks,,Closing remarks,,
