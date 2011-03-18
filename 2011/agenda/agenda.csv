@@ -8,7 +8,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
      ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,
      ,     ,tutorial,Zivot,Financial Risk Models with R,Zivot,Financial Risk Models with R,,
 12:15,12:30,normalbreak,,Welcome and opening remarks,,Welcome and opening remarks,,
-12:30,13:20,keynote,Faber,TBA,Faber,TBA,,
+12:30,13:20,keynote,Faber,Global Tactical Investing,Faber,Global Tactical Investing,,
 13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,,
 13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes ...,,
 14:00,14:20,talk,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,,
@@ -21,7 +21,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More,Nelson,Beyond Vignettes: Dexy for Documenting R and More,,
      ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,
      ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,
-17:30,22:00,normalbreak,,Conference Reception and Dinner (East Terrace and Rivers Restaurant),,Conference Reception and Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
+17:30,22:00,normalbreak,,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
      ,     ,HEADER,,,,"Saturday, April 30th, 2010",,
  8:00, 9:00,smallbreak,,Continental Breakfast,,Continental Breakfast,,
  9:00, 9:30,lightning,Rowe,A Beautiful Paradigm: Functional Programming in Finance,Rowe,A Beautiful Paradigm: Functional Programming in Finance,,
