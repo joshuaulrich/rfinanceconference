@@ -1,8 +1,8 @@
 start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
-     ,     ,HEADER,,,,"Thursday, April 28th, 2010",,
+     ,     ,HEADER,,,,"Thursday, April 28th, 2011",,
  9:00,17:00,smallbreak,,Optional Pre-Conference Workshop,,Optional Pre-Conference Workshop,,
      ,     ,tutorial,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,,VERTSPACE
-     ,     ,HEADER,,,,"Friday, April 29th, 2010",,
+     ,     ,HEADER,,,,"Friday, April 29th, 2011",,
  9:00,11:00,smallbreak,,Optional Pre-Conference Tutorials,,Optional Pre-Conference Tutorials,,
      ,     ,tutorial,Ryan,Automated Trading with R,Ryan,Automated Trading with R,,
      ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,
@@ -22,7 +22,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
      ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,
      ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,
 17:30,22:00,normalbreak,,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
-     ,     ,HEADER,,,,"Saturday, April 30th, 2010",,
+     ,     ,HEADER,,,,"Saturday, April 30th, 2011",,
  8:00, 9:00,smallbreak,,Continental Breakfast,,Continental Breakfast,,
  9:00, 9:30,lightning,Rowe,A Beautiful Paradigm: Functional Programming in Finance,Rowe,A Beautiful Paradigm: Functional Programming in Finance,,
      ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,
