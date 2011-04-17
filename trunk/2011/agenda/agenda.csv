@@ -1,8 +1,8 @@
 start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
-     ,     ,HEADER,,,,"Thursday, April 28th, 2011",,
+     ,     ,HEADER,,"Thursday, April 28th, 2011",,"Thursday, April 28th, 2011",,
  9:00,17:00,smallbreak,,Optional Pre-Conference Workshop,,Optional Pre-Conference Workshop,,
      ,     ,tutorial,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,,VERTSPACE
-     ,     ,HEADER,,,,"Friday, April 29th, 2011",,
+     ,     ,HEADER,,"Friday, April 29th, 2011",,"Friday, April 29th, 2011",,
  9:00,11:00,smallbreak,,Optional Pre-Conference Tutorials,,Optional Pre-Conference Tutorials,,
      ,     ,tutorial,Ryan,Automated Trading with R,Ryan,Automated Trading with R,,
      ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,
@@ -13,7 +13,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes ...,,
 14:00,14:20,talk,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,,
 14:20,14:50,smallbreak,,Break,,Break,,
-14:50,15:40,keynote,Iacus,TBA,Iacus,TBA,,
+14:50,15:40,keynote,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,,
 15:40,16:00,talk,Switanek,The Impact of News Readability on Market Response Times,Switanek,The Impact of News Readability on Market Response Times,,
 16:00,16:20,smallbreak,,Break,,Break,,
 16:20,16:40,talk,Lewis,The \emph{betfair} Package,Lewis,The <em>betfair</em> Package,,
@@ -21,8 +21,8 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More,Nelson,Beyond Vignettes: Dexy for Documenting R and More,,
      ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,
      ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,
-17:30,22:00,normalbreak,,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
-     ,     ,HEADER,,,,"Saturday, April 30th, 2011",,
+17:30,22:00,normalbreak,,Conference Reception and opt.~Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
+     ,     ,HEADER,,"Saturday, April 30th, 2011",,"Saturday, April 30th, 2011",,
  8:00, 9:00,smallbreak,,Continental Breakfast,,Continental Breakfast,,
  9:00, 9:30,lightning,Rowe,A Beautiful Paradigm: Functional Programming in Finance,Rowe,A Beautiful Paradigm: Functional Programming in Finance,,
      ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,
@@ -32,7 +32,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 10:10,10:30,smallbreak,,Break,,Break,,
 10:30,10:50,talk,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,,
 10:50,11:10,talk,Niemenmaa,Benchmarking parallel loops without data dependency in R,Niemenmaa,Benchmarking parallel loops without data dependency in R,,
-11:10,12:00,keynote,Bollinger,TBA,Bollinger,TBA,,
+11:10,12:00,keynote,Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",,
 12:00, 1:30,smallbreak,,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,
 13:30,14:00,lightning,Teetor,Better Hedge Ratios,Teetor,Better Hedge Ratios,,
      ,     ,lightning,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,,
@@ -46,4 +46,4 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
 16:30,17:00,lightning,Horner,\emph{Rack}: A Web Server Interface for R,Horner,<em>Rack</em>: A Web Server Interface for R,,
      ,     ,lightning,Haynold,\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET,Haynold:,<em>RserveCLI</em>: An Rserve Client Implementation for CLI/.NET,,
      ,     ,lightning,North,Repast Simphony,North,Repast Simphony,,
-     ,     ,break,,Closing remarks,,Closing remarks,,
+     ,     ,normalbreak,,Closing remarks,,Closing remarks,,
