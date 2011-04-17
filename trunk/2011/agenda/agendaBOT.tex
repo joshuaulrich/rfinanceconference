@@ -1,0 +1,96 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage{vmargin}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\setmargnohfrb{0.125in}{0.125in}{0.125in}{0.125in}
+
+\usepackage{avant}
+
+\usepackage{color}
+\definecolor{KeynoteTalk}{rgb}{0,0,0.55}
+\definecolor{Talk}{rgb}{0.54,0.27,0.07}
+\definecolor{LightningTalk}{rgb}{.8,0.45,0}
+\definecolor{Breaks}{rgb}{0.35,0.35,0.35}
+
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}  % for more space between rows
+
+\newcommand{\mylinecolor}[1]{\color{#1}\vspace{-8pt}}  % why is the vertical % % space needed ?
+
+\begin{document}
+
+\thispagestyle{empty}
+
+
+\ra{1.1} \sf
+
+\begin{tabular}{rlrlp{5in}} % right left right (for start/hyphen/end)
+  % left for a filler column and p{5in} for the
+  % main entry
+
+  \multicolumn{5}{l}{\Huge \textbf{\color{KeynoteTalk} R/Finance 2011} \huge \phantom{i} Applied Finance with R} \\
+  \multicolumn{5}{l}{\large \color{Breaks} April 29th and 30th, 2011, at the University of Illinois at Chicago} \\[3pt]
+  %\multicolumn{5}{l}{\large \color{KeynoteTalk} www.RinFinance.com/register} \\[3pt]
+
+  \bottomrule \\
+
+  \multicolumn{5}{l}{
+    \centering
+    %\includegraphics[page=1,scale=0.15]{alllogos.pdf}
+    \includegraphics[page=1,scale=1]{2011Sponsors.pdf}
+  } \\[5pt]
+
+  \bottomrule \\[3pt]
+
+  %% Insert from here
+ 9:00&\color{Breaks}-- & 17:00&   &\small{\mylinecolor{Breaks} Optional Pre-Conference Workshop} \\
+     & &      &   &\textbf{\color{Breaks} Eddelbuettel/Francois: R / C++ Integration with Rcpp and RInside} \\[12pt]
+\multicolumn{5}{l}{\large \color{Breaks}Friday, April 29th, 2011} \\[10pt]
+ 9:00&\color{Breaks}-- & 11:00&   &\small{\mylinecolor{Breaks} Optional Pre-Conference Tutorials} \\
+     & &      &   &\textbf{\color{Breaks} Ryan: Automated Trading with R} \\
+     & &      &   &\textbf{\color{Breaks} Yollin/Payseur: High-Frequency Financial Data Analysis with R} \\
+     & &      &   &\textbf{\color{Breaks} Zivot: Financial Risk Models with R} \\
+12:15&\color{Breaks}-- & 12:30&   &\textbf{\color{Breaks} Welcome and opening remarks} \\
+12:30&\color{Breaks}-- & 13:20&   &\textbf{\color{KeynoteTalk} Faber}: \small{Global Tactical Investing} \\
+13:20&\color{Breaks}-- & 13:40&   &\textbf{\color{Talk} Boudt}: \small{Intraday Liquidity Dynamics Of The DJIA Around Price Jumps} \\
+13:40&\color{Breaks}-- & 14:00&   &\textbf{\color{Talk} Dunand-Ch\^{a}tellet}: \small{Mutually Exciting Hawkes Processes $\ldots$} \\
+14:00&\color{Breaks}-- & 14:20&   &\textbf{\color{Talk} Kane}: \small{Evaluating the Effect of FINRA's New Circuit Breaker Regulation} \\
+14:20&\color{Breaks}-- & 14:50&   &\small{\mylinecolor{Breaks} Break} \\
+14:50&\color{Breaks}-- & 15:40&   &\textbf{\color{KeynoteTalk} Iacus}: \small{Statistical Analysis of Financial Time Series and Option Pricing in R} \\
+15:40&\color{Breaks}-- & 16:00&   &\textbf{\color{Talk} Switanek}: \small{The Impact of News Readability on Market Response Times} \\
+16:00&\color{Breaks}-- & 16:20&   &\small{\mylinecolor{Breaks} Break} \\
+16:20&\color{Breaks}-- & 16:40&   &\textbf{\color{Talk} Lewis}: \small{The \emph{betfair} Package} \\
+16:40&\color{Breaks}-- & 17:00&   &\textbf{\color{Talk} Kumar}: \small{Carry Trades - Don't Get Carried Away} \\
+17:00&\color{Breaks}-- & 17:30&   &\textbf{\color{LightningTalk} Nelson}: \small{Beyond Vignettes: Dexy for Documenting R and More} \\
+     & &      &   &\textbf{\color{LightningTalk} Rothermich}: \small{Alt.~Data Sources for Measuring Market Sentiment and Events} \\
+     & &      &   &\textbf{\color{LightningTalk} Long}: \small{The \emph{Segue} Package for R} \\
+17:30&\color{Breaks}-- & 22:00&   &\textbf{\color{Breaks} Conference Reception and opt.~Dinner (East Terrace and Rivers Restaurant)} \\[12pt]
+\multicolumn{5}{l}{\large \color{Breaks}Saturday, April 30th, 2011} \\[10pt]
+ 8:00&\color{Breaks}-- &  9:00&   &\small{\mylinecolor{Breaks} Continental Breakfast} \\
+ 9:00&\color{Breaks}-- &  9:30&   &\textbf{\color{LightningTalk} Rowe}: \small{A Beautiful Paradigm: Functional Programming in Finance} \\
+     & &      &   &\textbf{\color{LightningTalk} Ryan}: \small{High Performance Time Series in R: xtime, xts, and indexing} \\
+     & &      &   &\textbf{\color{LightningTalk} Peterson}: \small{Building and Testing Quantitative Strategy Models in R} \\
+ 9:30&\color{Breaks}-- &  9:50&   &\textbf{\color{Talk} Zivot}: \small{Factor Risk and Performance Attribution} \\
+ 9:50&\color{Breaks}-- & 10:10&   &\textbf{\color{Talk} Gramacy}: \small{Shrinkage Regression for Multivariate Inference \ldots} \\
+10:10&\color{Breaks}-- & 10:30&   &\small{\mylinecolor{Breaks} Break} \\
+10:30&\color{Breaks}-- & 10:50&   &\textbf{\color{Talk} Martin}: \small{Tail Risk Budgeting versus Modern Portfolio Theory} \\
+10:50&\color{Breaks}-- & 11:10&   &\textbf{\color{Talk} Niemenmaa}: \small{Benchmarking parallel loops without data dependency in R} \\
+11:10&\color{Breaks}-- & 12:00&   &\textbf{\color{KeynoteTalk} Bollinger}: \small{Yesterday, Today and Tomorrow: A Trip Through Computational Finance} \\
+12:00&\color{Breaks}-- &  1:30&   &\small{\mylinecolor{Breaks} Sponsor Lunch with presentations by Revolution, OneTick and RStudio} \\
+13:30&\color{Breaks}-- & 14:00&   &\textbf{\color{LightningTalk} Teetor}: \small{Better Hedge Ratios} \\
+     & &      &   &\textbf{\color{LightningTalk} Ang}: \small{The Impact of Oil Prices on the Houston Housing Market and Economy} \\
+     & &      &   &\textbf{\color{LightningTalk} Yadav}: \small{Modeling Low Default Credit Portfolios in R} \\
+14:00&\color{Breaks}-- & 14:20&   &\textbf{\color{Talk} Wildi}: \small{Multivariate DFA} \\
+14:20&\color{Breaks}-- & 14:40&   &\textbf{\color{Talk} Matteson}: \small{Independent Component Analysis via Distance Covariance} \\
+14:40&\color{Breaks}-- & 15:00&   &\small{\mylinecolor{Breaks} Break} \\
+15:00&\color{Breaks}-- & 15:50&   &\textbf{\color{KeynoteTalk} Kates}: \small{R and \emph{proto}} \\
+15:50&\color{Breaks}-- & 16:10&   &\textbf{\color{Talk} Vermes}: \small{Stochastic Volatility Models Massively Parallel in R} \\
+16:10&\color{Breaks}-- & 16:30&   &\textbf{\color{Talk} Pfaff}: \small{Interfacing NEOS from R: The \emph{rneos} Package} \\
+16:30&\color{Breaks}-- & 17:00&   &\textbf{\color{LightningTalk} Horner}: \small{\emph{Rack}: A Web Server Interface for R} \\
+     & &      &   &\textbf{\color{LightningTalk} Haynold}: \small{\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET} \\
+     & &      &   &\textbf{\color{LightningTalk} North}: \small{Repast Simphony} \\
+     & &      &   &\textbf{\color{Breaks} Closing remarks} \\
+  %% Insert to here
+
+\end{tabular}
+
+\end{document}
