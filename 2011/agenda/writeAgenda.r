@@ -103,4 +103,5 @@ writeLatex <- function(data) {
 
 data <- read.csv("agenda.csv", stringsAsFactors=FALSE)
 #print(data)
+writeHTML(data)
 writeLatex(data)

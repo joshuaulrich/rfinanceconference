@@ -1,47 +1,3 @@
-\documentclass[letterpaper,10pt]{article}
-\usepackage{vmargin}
-\usepackage{booktabs}
-\usepackage{graphicx}
-\setmargnohfrb{0.125in}{0.125in}{0.125in}{0.125in}
-
-\usepackage{avant}
-
-\usepackage{color}
-\definecolor{KeynoteTalk}{rgb}{0,0,0.55}
-\definecolor{Talk}{rgb}{0.54,0.27,0.07}
-\definecolor{LightningTalk}{rgb}{.8,0.45,0}
-\definecolor{Breaks}{rgb}{0.35,0.35,0.35}
-
-\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}  % for more space between rows
-
-\newcommand{\mylinecolor}[1]{\color{#1}\vspace{-8pt}}  % why is the vertical % % space needed ?
-
-\begin{document}
-
-\thispagestyle{empty}
-
-
-\ra{1.1} \sf
-
-\begin{tabular}{rlrlp{5in}} % right left right (for start/hyphen/end)
-  % left for a filler column and p{5in} for the
-  % main entry
-
-  \multicolumn{5}{l}{\Huge \textbf{\color{KeynoteTalk} R/Finance 2011} \huge \phantom{i} Applied Finance with R} \\
-  \multicolumn{5}{l}{\large \color{Breaks} April 29th and 30th, 2011, at the University of Illinois at Chicago} \\[3pt]
-  %\multicolumn{5}{l}{\large \color{KeynoteTalk} www.RinFinance.com/register} \\[3pt]
-
-  \bottomrule \\
-
-  \multicolumn{5}{l}{
-    \centering
-    %\includegraphics[page=1,scale=0.15]{alllogos.pdf}
-    \includegraphics[page=1,scale=1]{2011Sponsors.pdf}
-  } \\[5pt]
-
-  \bottomrule \\[3pt]
-
-  %% Insert from here
 \multicolumn{5}{l}{\large \color{Breaks}Thursday, April 28th, 2011} \\[10pt]
  9:00&\color{Breaks}-- & 17:00&   &\small{\mylinecolor{Breaks} Optional Pre-Conference Workshop} \\
      & &      &   &\textbf{\color{Breaks} Eddelbuettel/Francois: R / C++ Integration with Rcpp and RInside} \\[12pt]
@@ -90,9 +46,3 @@
      & &      &   &\textbf{\color{LightningTalk} Haynold}: \small{\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET} \\
      & &      &   &\textbf{\color{LightningTalk} North}: \small{Repast Simphony} \\
      & &      &   &\textbf{\color{Breaks} Closing remarks} \\
-
-  %% Insert to here
-
-\end{tabular}
-
-\end{document}
