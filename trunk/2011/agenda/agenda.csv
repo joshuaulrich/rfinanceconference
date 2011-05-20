@@ -28,7 +28,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
      ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,,JeffRyan.pdf
      ,     ,lightning,Peterson,Building and Testing Quantitative Strategy Models in R,Peterson,Building and Testing Quantitative Strategy Models in R,,,BrianPeterson.pdf
  9:30, 9:50,talk,Zivot,Factor Risk and Performance Attribution,Zivot,Factor Risk and Performance Attribution,,,EricZivot.pptx
- 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,,,RobertGramacy.pdf
+ 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference $\ldots$,Gramacy,Shrinkage Regression for Multivariate Inference ...,,,RobertGramacy.pdf
 10:10,10:30,smallbreak,,Break,,Break,,,
 10:30,10:50,talk,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,,,DougMartin.pptx
 10:50,11:10,talk,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,,,MikoNiemenmaa.ppt
