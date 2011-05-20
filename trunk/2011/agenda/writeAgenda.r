@@ -1,10 +1,14 @@
 #!/usr/bin/r
 
 writeHTML <- function(data) {
-    html <- file("agendaTEST.html", "w")
+    html <- file("agendaTESTnew.html", "w")
     for (i in 1:NROW(data)) {
 
         row <- data[i,]
+
+        ## extract pdf, ppt, pptx, ... from the 'paper' entry
+        papertype <- ifelse(row$paper != "", gsub(".*\\.(.*)$", "\\1", row$paper, perl=TRUE), '')
+
         ## Example:
         ##<tr><td align="right">9:00am</td><td align="left"></td>- <td align="right">11:00am</td><td align="left"></td><td width="501"><b><font color="#894411">Ryan</font></b>: <font size="-1">Automated Trading with R and IBroker </font></td></tr>
 
@@ -29,8 +33,13 @@ writeHTML <- function(data) {
                    keynote    =paste('<font color="#00008C"><b>', row$authorH,'</b></font>: ', row$titleH, '</font>', sep=""),
                    talk       =paste('<font color="#894411"><b>', row$authorH,'</b></font>: ', row$titleH, '</font>', sep=""),
                    lightning  =paste('<font color="#CC7200"><b>', row$authorH,'</b></font>: ', row$titleH, '</font>', sep="")),
+
+            ifelse (row$paper!="", paste('<nobr>&nbsp;</nobr><a href="http://www.rinfinance.com/agenda/2011/', row$paper, '">(', papertype, ')</a>', sep=""), ''),
+
             '</td></tr>',
+
             ifelse (row$eolH=="VERTSPACE", '\n<tr><td colspan="5"></td></tr>', ''),
+
             "\n", sep="", file=html)
     }
     close(html)
@@ -102,6 +111,7 @@ writeLatex <- function(data) {
 
 
 data <- read.csv("agenda.csv", stringsAsFactors=FALSE)
-#print(data)
+options(width=155)
+print(data[,-c(1:3,6 :9)])
 writeHTML(data)
-writeLatex(data)
+#writeLatex(data)
