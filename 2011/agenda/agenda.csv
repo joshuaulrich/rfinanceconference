@@ -1,49 +1,52 @@
-start,end,type,authorL,titleL,authorH,titleH,eolL,eolH
-     ,     ,HEADER,,"Thursday, April 28th, 2011",,"Thursday, April 28th, 2011",,
- 9:00,17:00,smallbreak,,Optional Pre-Conference Workshop,,Optional Pre-Conference Workshop,,
-     ,     ,tutorial,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,,VERTSPACE
-     ,     ,HEADER,,"Friday, April 29th, 2011",,"Friday, April 29th, 2011",,
- 9:00,11:00,smallbreak,,Optional Pre-Conference Tutorials,,Optional Pre-Conference Tutorials,,
-     ,     ,tutorial,Ryan,Automated Trading with R,Ryan,Automated Trading with R,,
-     ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,
-     ,     ,tutorial,Zivot,Financial Risk Models with R,Zivot,Financial Risk Models with R,,
-12:15,12:30,normalbreak,,Welcome and opening remarks,,Welcome and opening remarks,,
-12:30,13:20,keynote,Faber,Global Tactical Investing,Faber,Global Tactical Investing,,
-13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,,
-13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes ...,,
-14:00,14:20,talk,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,,
-14:20,14:50,smallbreak,,Break,,Break,,
-14:50,15:40,keynote,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,,
-15:40,16:00,talk,Switanek,The Impact of News Readability on Market Response Times,Switanek,The Impact of News Readability on Market Response Times,,
-16:00,16:20,smallbreak,,Break,,Break,,
-16:20,16:40,talk,Lewis,The \emph{betfair} Package,Lewis,The <em>betfair</em> Package,,
-16:40,17:00,talk,Kumar,Carry Trades - Don't Get Carried Away,Kumar,Carry Trades - Don't Get Carried Away,,
-17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More,Nelson,Beyond Vignettes: Dexy for Documenting R and More,,
-     ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,
-     ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,
-17:30,22:00,normalbreak,,Conference Reception and opt.~Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE
-     ,     ,HEADER,,"Saturday, April 30th, 2011",,"Saturday, April 30th, 2011",,
- 8:00, 9:00,smallbreak,,Continental Breakfast,,Continental Breakfast,,
- 9:00, 9:30,lightning,Rowe,A Beautiful Paradigm: Functional Programming in Finance,Rowe,A Beautiful Paradigm: Functional Programming in Finance,,
-     ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,
-     ,     ,lightning,Peterson,Building and Testing Quantitative Strategy Models in R,Peterson,Building and Testing Quantitative Strategy Models in R,,
- 9:30, 9:50,talk,Zivot,Factor Risk and Performance Attribution,Zivot,Factor Risk and Performance Attribution,,
- 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,,
-10:10,10:30,smallbreak,,Break,,Break,,
-10:30,10:50,talk,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,,
-10:50,11:10,talk,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,,
-11:10,12:00,keynote,Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",,
-12:00,13:30,smallbreak,,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,
-13:30,14:00,lightning,Teetor,Better Hedge Ratios,Teetor,Better Hedge Ratios,,
-     ,     ,lightning,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,,
-     ,     ,lightning,Yadav,Modeling Low Default Credit Portfolios in R,Yadav,Modeling Low Default Credit Portfolios in R,,
-14:00,14:20,talk,Wildi,Multivariate DFA,Wildi,Multivariate DFA,,
-14:20,14:40,talk,Matteson,Independent Component Analysis via Distance Covariance,Matteson,Independent Component Analysis via Distance Covariance,,
-14:40,15:00,smallbreak,,Break,,Break,,
-15:00,15:50,keynote,Kates,R and \emph{proto},Kates,R and <em>proto</em>,,
-15:50,16:10,talk,Vermes,Stochastic Volatility Models Massively Parallel in R,Vermes,Stochastic Volatility Models Massively Parallel in R,,
-16:10,16:30,talk,Pfaff,Interfacing NEOS from R: The \emph{rneos} Package,Pfaff,Interfacing NEOS from R: The <em>rneos</em> Package,,
-16:30,17:00,lightning,Horner,\emph{Rack}: A Web Server Interface for R,Horner,<em>Rack</em>: A Web Server Interface for R,,
-     ,     ,lightning,Haynold,\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET,Haynold:,<em>RserveCLI</em>: An Rserve Client Implementation for CLI/.NET,,
-     ,     ,lightning,North,Repast Simphony,North,Repast Simphony,,
-17:00,17:15,normalbreak,,Closing remarks,,Closing remarks,,
+start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
+     ,     ,HEADER,,"Thursday, April 28th, 2011",,"Thursday, April 28th, 2011",,,
+ 9:00,17:00,smallbreak,,Optional Pre-Conference Workshop,,Optional Pre-Conference Workshop,,,
+     ,     ,tutorial,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,Eddelbuettel/Francois,R / C++ Integration with Rcpp and RInside,,VERTSPACE,
+     ,     ,HEADER,,"Friday, April 29th, 2011",,"Friday, April 29th, 2011",,,
+ 9:00,11:00,smallbreak,,Optional Pre-Conference Tutorials,,Optional Pre-Conference Tutorials,,,
+     ,     ,tutorial,Ryan,Automated Trading with R,Ryan,Automated Trading with R,,,
+     ,     ,tutorial,Yollin/Payseur,High-Frequency Financial Data Analysis with R,Yollin,High-Frequency Financial Data Analysis with R,,,
+     ,     ,tutorial,Zivot,Financial Risk Models with R,Zivot,Financial Risk Models with R,,,
+12:15,12:30,normalbreak,,Welcome and opening remarks,,Welcome and opening remarks,,,
+12:30,13:20,keynote,Faber,Global Tactical Investing,Faber,Global Tactical Investing,,,
+13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,,,KrisBoudt.pdf
+13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes ...,,,ClementDunand.pdf
+14:00,14:20,talk,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,,,King+Kane+Holowczak.pdf
+14:20,14:50,smallbreak,,Break,,Break,,,
+14:50,15:40,keynote,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,,,StefanoIacus.pdf
+15:40,16:00,talk,Switanek,The Impact of News Readability on Market Response Times,Switanek,The Impact of News Readability on Market Response Times,,,NicholasSwitanek.pdf
+16:00,16:20,smallbreak,,Break,,Break,,,
+16:20,16:40,talk,Lewis,The \emph{betfair} Package,Lewis,The <em>betfair</em> Package,,,BryanLewis.pdf
+16:40,17:00,talk,Kumar,Carry Trades - Don't Get Carried Away,Kumar,Carry Trades - Don't Get Carried Away,,,
+17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More,Nelson,Beyond Vignettes: Dexy for Documenting R and More,,,AnaNelson.pdf
+     ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,,JoeRothermich.pdf
+     ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,,JDLong.pdf
+17:30,22:00,normalbreak,,Conference Reception and opt.~Dinner (East Terrace and Rivers Restaurant),,Conference Reception and optional Dinner (East Terrace and Rivers Restaurant),,VERTSPACE,
+     ,     ,HEADER,,"Saturday, April 30th, 2011",,"Saturday, April 30th, 2011",,,
+ 8:00, 9:00,smallbreak,,Continental Breakfast,,Continental Breakfast,,,
+ 9:00, 9:30,lightning,Rowe,A Beautiful Paradigm: Functional Programming in Finance,Rowe,A Beautiful Paradigm: Functional Programming in Finance,,,BrianRowe.pdf
+     ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,,JeffRyan.pdf
+     ,     ,lightning,Peterson,Building and Testing Quantitative Strategy Models in R,Peterson,Building and Testing Quantitative Strategy Models in R,,,BrianPeterson.pdf
+ 9:30, 9:50,talk,Zivot,Factor Risk and Performance Attribution,Zivot,Factor Risk and Performance Attribution,,,EricZivot.pptx
+ 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,Gramacy,Shrinkage Regression for Multivariate Inference \ldots,,,RobertGramacy.pdf
+10:10,10:30,smallbreak,,Break,,Break,,,
+10:30,10:50,talk,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,,,DougMartin.pptx
+10:50,11:10,talk,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,,,MikoNiemenmaa.ppt
+11:10,12:00,keynote,Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",Bollinger,"Yesterday, Today and Tomorrow: A Trip Through Computational Finance",,,JohnBollinger.ppt
+12:00,13:30,smallbreak,,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,,
+     ,     ,talk,Yollin,"Can you do better than cap-weighted equity benchmarks?",Yollin,"Can you do better than cap-weighted equity benchmarks?",,,GuyYollin.pdf
+     ,     ,talk,Belianina,"Solutions from OneTick and R",Belianina,"Solutions from OneTick and R",,,MariaBelianina.pptx
+     ,     ,talk,Cheng,"Introducing RStudio",Cheng,"Introducing RStudio",,,
+13:30,14:00,lightning,Teetor,Better Hedge Ratios,Teetor,Better Hedge Ratios,,,PaulTeetor.pdf
+     ,     ,lightning,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,,,RachelAng.ppt
+     ,     ,lightning,Yadav,Modeling Low Default Credit Portfolios in R,Yadav,Modeling Low Default Credit Portfolios in R,,,Yadav+et+al.pdf
+14:00,14:20,talk,Wildi,Multivariate DFA,Wildi,Multivariate DFA,,,
+14:20,14:40,talk,Matteson,Independent Component Analysis via Distance Covariance,Matteson,Independent Component Analysis via Distance Covariance,,,DavidMatteson.pdf
+14:40,15:00,smallbreak,,Break,,Break,,,
+15:00,15:50,keynote,Kates,R and \emph{proto},Kates,R and <em>proto</em>,,,LouisKates.pptx
+15:50,16:10,talk,Vermes,Stochastic Volatility Models Massively Parallel in R,Vermes,Stochastic Volatility Models Massively Parallel in R,,,Vermes+Zhao.pdf
+16:10,16:30,talk,Pfaff,Interfacing NEOS from R: The \emph{rneos} Package,Pfaff,Interfacing NEOS from R: The <em>rneos</em> Package,,,BernhardPfaff.pdf
+16:30,17:00,lightning,Horner,\emph{Rack}: A Web Server Interface for R,Horner,<em>Rack</em>: A Web Server Interface for R,,,JeffHorner.pdf
+     ,     ,lightning,Haynold,\emph{RserveCLI}: An Rserve Client Implementation for CLI/.NET,Haynold:,<em>RserveCLI</em>: An Rserve Client Implementation for CLI/.NET,,,OliverHaynold.pdf
+     ,     ,lightning,North,Repast Simphony,North,Repast Simphony,,,MichaelNorth.ppt
+17:00,17:15,normalbreak,,Closing remarks,,Closing remarks,,,
