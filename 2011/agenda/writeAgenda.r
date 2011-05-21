@@ -1,7 +1,7 @@
 #!/usr/bin/r
 
 writeHTML <- function(data) {
-    html <- file("agendaTESTnew.html", "w")
+    html <- file("agendaGENERATED.html", "w")
     for (i in 1:NROW(data)) {
 
         row <- data[i,]
