@@ -36,7 +36,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
 12:00,13:30,smallbreak,,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,"Sponsor Lunch with presentations by Revolution, OneTick and RStudio",,,
      ,     ,talk,Yollin,"Can you do better than cap-weighted equity benchmarks?",Yollin,"Can you do better than cap-weighted equity benchmarks?",,,GuyYollin.pdf
      ,     ,talk,Belianina,"Solutions from OneTick and R",Belianina,"Solutions from OneTick and R",,,MariaBelianina.pptx
-     ,     ,talk,Cheng,"Introducing RStudio",Cheng,"Introducing RStudio",,,
+     ,     ,talk,Cheng,"RStudio",Cheng,"RStudio",,,JoeCheng.pdf
 13:30,14:00,lightning,Teetor,Better Hedge Ratios,Teetor,Better Hedge Ratios,,,PaulTeetor.pdf
      ,     ,lightning,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,Ang,The Impact of Oil Prices on the Houston Housing Market and Economy,,,RachelAng.ppt
      ,     ,lightning,Yadav,Modeling Low Default Credit Portfolios in R,Yadav,Modeling Low Default Credit Portfolios in R,,,Yadav+et+al.pdf
