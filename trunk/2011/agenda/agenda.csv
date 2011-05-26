@@ -17,7 +17,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
 15:40,16:00,talk,Switanek,The Impact of News Readability on Market Response Times,Switanek,The Impact of News Readability on Market Response Times,,,NicholasSwitanek.pdf
 16:00,16:20,smallbreak,,Break,,Break,,,
 16:20,16:40,talk,Lewis,The \emph{betfair} Package,Lewis,The <em>betfair</em> Package,,,BryanLewis.pdf
-16:40,17:00,talk,Kumar,Carry Trades - Don't Get Carried Away,Kumar,Carry Trades - Don't Get Carried Away,,,
+16:40,17:00,talk,Kumar,Carry Trades - Don't Get Carried Away,Kumar,Carry Trades - Don't Get Carried Away,,,KrishnaKumar.pdf
 17:00,17:30,lightning,Nelson,Beyond Vignettes: Dexy for Documenting R and More,Nelson,Beyond Vignettes: Dexy for Documenting R and More,,,AnaNelson.pdf
      ,     ,lightning,Rothermich,Alt.~Data Sources for Measuring Market Sentiment and Events,Rothermich,Alt. Data Sources for Measuring Market Sentiment and Events,,,JoeRothermich.pdf
      ,     ,lightning,Long,The \emph{Segue} Package for R,Long,The <em>Segue</em> Package for R,,,JDLong.pdf
