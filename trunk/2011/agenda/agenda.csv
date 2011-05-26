@@ -10,7 +10,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
 12:15,12:30,normalbreak,,Welcome and opening remarks,,Welcome and opening remarks,,,
 12:30,13:20,keynote,Faber,Global Tactical Investing,Faber,Global Tactical Investing,,,
 13:20,13:40,talk,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,Boudt,Intraday Liquidity Dynamics Of The DJIA Around Price Jumps,,,KrisBoudt.pdf
-13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes ...,,,ClementDunand.pdf
+13:40,14:00,talk,Dunand-Ch\^{a}tellet,Mutually Exciting Hawkes Processes $\ldots$,Dunand-Chatellet,Mutually Exciting Hawkes Processes for Microstructure Noise Modelling,,,ClementDunand.pdf
 14:00,14:20,talk,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,Kane,Evaluating the Effect of FINRA's New Circuit Breaker Regulation,,,King+Kane+Holowczak.pdf
 14:20,14:50,smallbreak,,Break,,Break,,,
 14:50,15:40,keynote,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,Iacus,Statistical Analysis of Financial Time Series and Option Pricing in R,,,StefanoIacus.pdf
@@ -28,7 +28,7 @@ start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
      ,     ,lightning,Ryan,"High Performance Time Series in R: xtime, xts, and indexing",Ryan,"High Performance Time Series in R: xtime, xts, and indexing",,,JeffRyan.pdf
      ,     ,lightning,Peterson,Building and Testing Quantitative Strategy Models in R,Peterson,Building and Testing Quantitative Strategy Models in R,,,BrianPeterson.pdf
  9:30, 9:50,talk,Zivot,Factor Risk and Performance Attribution,Zivot,Factor Risk and Performance Attribution,,,EricZivot.pptx
- 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference $\ldots$,Gramacy,Shrinkage Regression for Multivariate Inference ...,,,RobertGramacy.pdf
+ 9:50,10:10,talk,Gramacy,Shrinkage Regression for Multivariate Inference $\ldots$,Gramacy,Shrinkage Regression for Multivariate Inference with missing data ...,,,RobertGramacy.pdf
 10:10,10:30,smallbreak,,Break,,Break,,,
 10:30,10:50,talk,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,Martin,Tail Risk Budgeting versus Modern Portfolio Theory,,,DougMartin.pptx
 10:50,11:10,talk,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,Niemenmaa,Benchmarking Parallel Loops Without Data Dependency in R,,,MikoNiemenmaa.ppt

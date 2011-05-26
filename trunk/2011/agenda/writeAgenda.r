@@ -24,7 +24,7 @@ writeHTML <- function(data) {
         cat('<tr><td align="right">', row$start,'</td><td align="left">',
             ifelse(row$start!="     ",'-',' '),
             '</td><td align="left">', row$end,
-            '</td><td align="left"></td><td width="501"><font size="-1">',
+            '</td><td align="left"></td><td width="581"><font size="-1">',
                                         #"\n\t",
             switch(row$type,
                    smallbreak =paste('<font color="#595959">',    row$titleH, '</font></font>',           sep=""),
