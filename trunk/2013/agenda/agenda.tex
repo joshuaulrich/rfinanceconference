@@ -1,0 +1,46 @@
+\documentclass[10pt]{article}
+\usepackage[USletter]{vmargin}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\setmargnohfrb{0.5in}{0.5in}{0.5in}{0.5in}
+\usepackage{avant}
+
+\usepackage{color}
+\definecolor{KeynoteTalk}{rgb}{0,0,0.55}
+\definecolor{Talk}{rgb}{0.54,0.27,0.07}
+\definecolor{LightningTalk}{rgb}{.8,0.45,0}
+\definecolor{Breaks}{rgb}{0.35,0.35,0.35}
+
+\setlength{\parindent}{0pt}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}  % for more space between rows
+
+\newcommand{\mylinecolor}[1]{\color{#1}\vspace{-8pt}}  % why is the vertical % % space needed ?
+
+\begin{document}
+
+\thispagestyle{empty}
+
+
+\ra{1.2} \sf
+
+%{\Huge \textbf{\color{KeynoteTalk} R/Finance 2012} \huge \phantom{i}
+%  Applied Finance with R} \\
+%{\large \color{Breaks} May 4th and 5th, 2012, at the University of
+%  Illinois at Chicago} \\
+%\vspace{3pt}
+%\hrulefill
+%\vspace{-2ex}
+%\begin{center}
+%  \includegraphics[scale=0.5]{sponsors_2012.pdf}
+%\end{center}
+%\vspace{-3ex}
+%\hrulefill
+%
+%\begin{tabular}{rlr@{~~}p{5.5in}} % right left right (for start/hyphen/end)
+  % left for a filler column and p{5in} for the main entry
+  %% Insert from here
+\input{agendaTEST.tex}
+  %% Insert to here
+%\end{tabular}
+
+\end{document}
