@@ -1,0 +1,63 @@
+start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
+,,HEADER,,"Friday, May 11th, 2012",,"Friday, May 11th, 2012",,,
+8:00,9:00,smallbreak,,Optional Pre-Conference Seminars,,Optional Pre-Conference Tutorials,,,
+,,tutorial,Armstrong,Deathstar: Seamless Distributed Computing for R,Armstrong,Deathstar: Seamless Distributed Computing for R,,,workshop/WhitArmstrong.pdf
+,,tutorial,Carl/Peterson,Evaluating Strategic Portfolios of Hedge Funds,Carl/Peterson,Evaluating Strategic Portfolios of Hedge Funds,,,workshop/Carl+Peterson.pdf
+,,tutorial,Eddelbuettel,Rcpp and RInside for R and C++ Integration,Eddelbuettel,Rcpp and RInside for R and C++ Integration,,,workshop/DirkEddelbuettel.pdf
+,,tutorial,Martin,Robust Statistics in Finance,Martin,Robust Statistics in Finance,,,workshop/DougMartin.pdf
+,,tutorial,Ryan,"Market Scale Data: An Author-led Tour of \emph{xts}, \emph{xtime}, \emph{mmap}, \emph{indexing}, and More",Ryan,"Market Scale Data: An Author-led Tour of <em>xts</em>, <em>xtime</em>, <em>mmap</em>, <em>indexing</em>, and More",,,talk/JeffRyan.pdf
+,,tutorial,Yollin/Zivot,Time Series Forecasting with State Space Models,Yollin/Zivot,Time Series Forecasting with State Space Models,,,workshop/Zivot+Yollin.pdf
+9:00,9:30,normalbreak,,Registration (2nd fl.~Inner Circle) \& Cont.~Breakfast (3rd fl.~by Sponsor Tables),,Registration (2nd floor Inner Circle) & Continental Breakfast (3rd floor by Sponsor Tables),,,
+9:30,9:40,normalbreak,,Welcome and Opening Remarks,,Welcome and Opening Remarks,,,
+9:40,10:30,keynote,Blair Hull,Examining the Revolution: How Technology is Changing the Trading Landscape,Blair Hull,Examining the Revolution: How Technology is Changing the Trading Landscape,,,talk/BlairHull.pdf
+10:30,10:50,talk,Pfaff,Diversification Reconsidered: Minimum Tail Dependence,Pfaff,Diversification Reconsidered: Minimum Tail Dependence,,,talk/BernhardPfaff.pdf
+10:50,11:10,talk,Gesmann,Modelling Insurance Claim Reserves with R and the \emph{ChainLadder} Package,Gesmann,Modelling Insurance Claim Reserves with R and the <em>ChainLadder</em> Package,,,talk/Gesmann+Murphy+Zhang.pdf
+11:10,11:30,smallbreak,,Break,,Break,,,
+11:30,11:50,talk,Martin,Utility Function Based Spectral Risk Measures,Martin,Utility Function Based Spectral Risk Measures,,,
+11:50,12:15,lightning,Cha,Risk Management in ERCOT Power Markets,Cha,Risk Management in ERCOT Power Markets,,,
+,,lightning,Kapler,Seasonality Analysis and Pattern Matching in R,Kapler,Seasonality Analysis and Pattern Matching in R,,,talk/MichaelKapler.pdf
+,,lightning,Weylandt,A Short Introduction to Real-Time Portfolio/Market Monitoring with R,Weylandt,A Short Introduction to Real-Time Portfolio/Market Monitoring with R,,,talk/MichaelWeylandt.pdf
+,,lightning,Wylie,Insanely Cool Stuff from OpenGamma+R,Wylie,Insanely Cool Stuff from OpenGamma+R,,,talk/KirkWylie.pptx
+12:15,13:15,smallbreak,,Lunch,,Lunch,,,
+13:15,13:35,talk,Packard,Semantic Genomes for Analysis of Large Text Streams,Packard,Semantic Genomes for Analysis of Large Text Streams,,,
+13:35,13:55,talk,Hoxsey/Wildi,Trader's DFA --- A Practitioner's Introduction to the Direct Filter Approach,Hoxsey/Wildi,Trader's DFA &mdash; A Practitioner's Introduction to the Direct Filter Approach,,,talk/Hoxsey+Wildi.pptx
+13:55,14:20,lightning,Cornelissen,The Sustainability of Mean-Variance and Mean-Tracking Error Efficient Portfolios,Cornelissen,The Sustainability of Mean-Variance and Mean-Tracking Error Efficient Portfolios,,,talk/Boudt+Cornelissen+Croux.pdf
+,,lightning,Pav,On the Maximization of Sharpe Ratio,Pav,On the Maximization of Sharpe Ratio,,,talk/StevenPav.pdf
+,,lightning,Rush,Relative Return Momentum in Asset Allocation,Rush,Relative Return Momentum in Asset Allocation,,,talk/StephenRush.pdf
+,,lightning,Belianina,OneTick and R for Market Data Time Series Analysis,Belianina,OneTick and R for Market Data Time Series Analysis,,,talk/MariaBelianina.pdf
+14:20,14:45,smallbreak,,Break,,Break,,,
+14:45,15:35,keynote,Rob McCulloch,Cholesky Stochastic Volatility,Rob McCulloch,Cholesky Stochastic Volatility,,,talk/RobMcCulloch.pdf
+15:35,15:55,talk,Theussl,\emph{ROI}: The R Optimization Infrastructure Package,Theussl,<em>ROI</em>: The R Optimization Infrastructure Package,,,talk/StefanTheussl.pdf
+15:55,16:15,talk,Boudt,The Peer Performance of Hedge Funds,Boudt,The Peer Performance of Hedge Funds,,,talk/Ardia+Boudt.pdf
+16:15,16:45,talk,Zivot,Estimating the Dynamics of Price Discovery,Zivot,Estimating the Dynamics of Price Discovery,,,talk/Yan+Zivot.pptx
+16:45,17:00,smallbreak,,"Information About Reception, Dinner",,"Information About Reception, Dinner",,,
+17:00,22:00,normalbreak,,Conference Reception and Optional Dinner (East Terrace and Market Bar),,Conference Reception and Optional Dinner (East Terrace and Market Bar),,VERTSPACE,
+,,HEADER,,"Saturday, May 12th, 2012",,"Saturday, May 12th, 2012",,,
+8:00,9:00,smallbreak,,Coffee/Breakfast,,Coffee/Breakfast,,,
+9:00,9:05,smallbreak,,Kickoff,,Kickoff,,,
+9:05,9:30,lightning,Eddelbuettel,Wittier Webapps with RInside,Eddelbuettel,Wittier Webapps with RInside,,,talk/DirkEddelbuettel.pdf
+,,lightning,Gesmann,An Interactive Overview of Lloyd's Using R and the \emph{googleVis} Package,Gesmann,An Interactive Overview of Lloyd's Using R and the <em>googleVis</em> Package,,,talk/MarkusGesmann.pdf 
+,,lightning,Raattamaa,Carryover Costs in Zero Intelligence Double-Auction Markets,Raattamaa,Carryover Costs in Zero Intelligence Double-Auction Markets,,,
+,,lightning,Myers,Using Historical Market Data in R - Quality Models are Built from Quality Data,Myers,Using Historical Market Data in R - Quality Models are Built from Quality Data,,,
+9:30,9:50,talk,Kumar,Is the Future Golden?,Kumar,Is the Future Golden?,,,
+9:50,10:10,talk,King,"Liquid Gold, Illiquid Assets: Hedging Event Risk in Fixed Income Securities --- British Petroleum Bonds in the Spring/Summer of 2010",King,"Liquid Gold, Illiquid Assets: Hedging Event Risk in Fixed Income Securities &mdash; British Petroleum Bonds in the Spring/Summer of 2010",,,
+10:10,10:30,smallbreak,,Break,,Break,,,
+10:30,11:20,keynote,Paul Gilbert,Lock-In Avoidance and Quality Assurance,Paul Gilbert,Lock-In Avoidance and Quality Assurance,,,talk/PaulGilbert.pdf
+11:20,11:40,talk,Ang,Estimating the Market Value of Illiquid Debt Using WRDS TRACE Data,Ang,Estimating the Market Value of Illiquid Debt Using WRDS TRACE Data,,,talk/Ang+Lyon.pdf
+11:40,12:00,talk,Li,Monetary Policy Analysis Based On Lasso-Assisted Vector Autoregression (LAVAR),Li,Monetary Policy Analysis Based On Lasso-Assisted Vector Autoregression (LAVAR),,,talk/JiahanLi.pptx
+12:00,13:30,smallbreak,,Lunch,,Lunch,,,
+13:30,13:50,talk,Nelson,Financial Reporting and Documentation using R and Dexy,Nelson,Financial Reporting and Documentation using R and Dexy,,,
+13:50,14:10,talk,Gordy,Network Analysis in R of Derivatives Trade Repository Data,Gordy,Network Analysis in R of Derivatives Trade Repository Data,,,
+14:10,14:30,talk,Sinha,All Words Are Not Made Equal,Sinha,All Words Are Not Made Equal,,,talk/Bhattacharyya+Pendergrass+Sinha.pdf
+14:30,14:42,lightning,Emerson,Towards Terrabytes of TAQ,Emerson,Towards Terrabytes of TAQ,,,talk/Emerson+Kane.pdf
+,,lightning,Nagar,News Sentiment Analysis Using R to Predict Stock Market Data,Nagar,News Sentiment Analysis Using R to Predict Stock Market Data,,,talk/Nagar+Hahsler.pdf
+14:42,15:00,smallbreak,,Break,,Break,,,
+15:00,15:50,keynote,Simon Urbanek,Visualizing Large Data with R,Simon Urbanek,Visualizing Large Data with R,,,
+15:50,16:10,talk,Lewis,A Cointegration-Inspired Method for Large Scale Data,Lewis,A Cointegration-Inspired Method for Large Scale Data,,,talk/BryanLewis.pdf
+16:10,16:30,talk,Armstrong,CppBugs: Native MCMC for R,Armstrong,CppBugs: Native MCMC for R,,,talk/WhitArmstrong.pdf
+16:30,16:50,talk,Rohani,"Large-Scale, Computationally Intensive Forecasting in R",Rohani,"Large-Scale, Computationally Intensive Forecasting in R",,,
+16:50,17:02,lightning,Humke,"Achieving High-Performing, Simulation-Based Operational Risk Measurement with R and RevoScaleR",Humke,"Achieving High-Performing, Simulation-Based Operational Risk Measurement with R and RevoScaleR",,,talk/DavidHumke.pdf
+,,lightning,Teetor,Fast(er) R Code,Teetor,Fast(er) R Code,,,talk/PaulTeetor.pdf
+17:02,17:15,smallbreak,,Conclusion,,Conclusion,,,
+17:15,17:30,smallbreak,,Transition to Jak's,,Transition to Jak's,,,
+17:30,,normalbreak,,Post-Conference Drinks at Jak's Tap,,Post-Conference Drinks at Jak's Tap,,,
