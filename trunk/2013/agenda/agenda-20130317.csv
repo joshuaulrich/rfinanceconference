@@ -1,7 +1,7 @@
 start,end,type,authorL,titleL,authorH,titleH,eolL,eolH,paper
 ,,HEADER,,"Friday, May 17th, 2013",,"Friday, May 17th, 2013",,,
 8:00,9:00,smallbreak,,Optional Pre-Conference Seminars,,Optional Pre-Conference Tutorials,,,
-,,tutorial,Whit Armstrong,An Introduction to Distributed Computing in R,Whit Armstrong,An Introduction to Distributed Computing in R,,,
+,,tutorial,Armstrong/Lewis,An Introduction to Distributed Computing in R,Armstrong/Lewis,An Introduction to Distributed Computing in R,,,
 ,,tutorial,Matthew Dowle,Advanced Tutorial on \emph{data.table},Matthew Dowle,Advanced Tutorial on data.table,,,
 ,,tutorial,Humme/Peterson,Using \emph{quantstrat} to evaluate intraday trading strategies,Humme/Peterson,Using quantstrat to evaluate intraday trading strategies,,,
 ,,tutorial,Dirk Eddelbuettel,Example-driven Introduction to \emph{Rcpp},Dirk Eddelbuettel,Example-driven Introduction to Rcpp,,,
